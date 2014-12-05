@@ -1,0 +1,10 @@
+<root>
+  <Producto>
+    <Nombre>re</Nombre>
+    <Descripcion>re</Descripcion>
+    <Monto>re</Monto>
+    <Cantidad />
+    <Categoria />
+    <Serial />
+  </Producto>
+</root>
