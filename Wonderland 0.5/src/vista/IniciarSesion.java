@@ -8,13 +8,16 @@ package vista;
 
 import javax.swing.JOptionPane;
 import vista.RegistroDeUsuario;
+import controlador.AgregarUsuarioArchivo;
+import controlador.Validar;
+import modelo.Usuario;
 
 /**
  *
  * @author essteeli
  */
 public class IniciarSesion extends javax.swing.JFrame {
-
+AgregarUsuarioArchivo DatCli = new AgregarUsuarioArchivo();
     /**
      * Creates new form Principal
      */
@@ -155,19 +158,20 @@ public class IniciarSesion extends javax.swing.JFrame {
     private void IniciarSesionActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_IniciarSesionActionPerformed
          String usu=seudonimo.getText();
     String pas=new String(clavetxt.getText());
-    if(usu.equals("MARIAE") && pas.equals("1234"))
-    {
-        this.setVisible(false);
-        JOptionPane.showMessageDialog(null, "Bienvenido");
-  
-        
-        
-    }
-    else
-    {
-        JOptionPane.showMessageDialog(null, "Los Datos son Incorrectos vuelva a Intentarlo");
-        seudonimo.requestFocus();
-    }
+    if (Validar.validarVacio(seudonimo,"Debe indicar su Nombre de Usuario ")==1 && Validar.validarVacio(clavetxt,"Debe indicar su clave de acceso") ==1)
+         {  int valor = 1;
+            if (valor == 1)
+              {
+                Usuario est = DatCli.buscarPersona(seudonimo.getText());
+                if (est != null){
+                    JOptionPane.showMessageDialog(null, "Bienvenido ", "Informacion", JOptionPane.OK_OPTION);
+                    Principal control2 = new Principal();
+        control2.setLocationRelativeTo(null);
+        control2.setVisible(true);
+        this.dispose();  
+                            
+                }
+              }}
 
     }//GEN-LAST:event_IniciarSesionActionPerformed
 
