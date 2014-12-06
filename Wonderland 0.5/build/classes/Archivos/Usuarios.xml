@@ -1,0 +1,36 @@
+<root>
+  <Usuario>
+    <Nombre>MARIA</Nombre>
+    <Apellido>PEREZ</Apellido>
+    <Cedula>20913337</Cedula>
+    <email>ESTEPEREZ1593</email>
+    <direccion>LA CANDELARIA</direccion>
+    <clave>1234</clave>
+    <seudonimo>MARIAE</seudonimo>
+    <freg>6/12/2014</freg>
+    <fnac>15/09/1993</fnac>
+    <rol>USUARIO</rol>
+    <NumTarjCredito>1233</NumTarjCredito>
+    <MarcaComercial>1235</MarcaComercial>
+    <FecVencimiento>11236</FecVencimiento>
+    <Codigo>1234</Codigo>
+    <direccionFoto />
+  </Usuario>
+  <Usuario>
+    <Nombre>MARIA</Nombre>
+    <Apellido>PEREZ</Apellido>
+    <Cedula>2</Cedula>
+    <email>LALA</email>
+    <direccion>32</direccion>
+    <clave>LAS12</clave>
+    <seudonimo>LALA</seudonimo>
+    <freg>6/12/2014</freg>
+    <fnac>2</fnac>
+    <rol>USUARIO</rol>
+    <NumTarjCredito>32123</NumTarjCredito>
+    <MarcaComercial>3</MarcaComercial>
+    <FecVencimiento>23</FecVencimiento>
+    <Codigo>213</Codigo>
+    <direccionFoto>C:\Users\essteeli\Documents\logoFinalojos.jpg</direccionFoto>
+  </Usuario>
+</root>
