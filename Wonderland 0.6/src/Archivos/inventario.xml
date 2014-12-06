@@ -1,0 +1,9 @@
+<root>
+  <Producto>
+    <Nombre>harina</Nombre>
+    <Descripcion>pan</Descripcion>
+    <Monto>20</Monto>
+    <Cantidad>1</Cantidad>
+    <Serial>1186</Serial>
+  </Producto>
+</root>

@@ -1,0 +1,36 @@
+<root>
+  <Usuario>
+    <nombre>maria</nombre>
+    <apellido>perez</apellido>
+    <cedula>20913337</cedula>
+    <email>esteperez1593</email>
+    <direccion>la candelaria</direccion>
+    <clave>1234</clave>
+    <seudonimo>mariaE</seudonimo>
+    <freg>6/12/2014</freg>
+    <fnac>15/09/1993</fnac>
+    <rol>USUARIO</rol>
+    <NumTarjCredito>1231</NumTarjCredito>
+    <MarcaComercial>123123</MarcaComercial>
+    <FecVencimiento>1234</FecVencimiento>
+    <Codigo>213</Codigo>
+    <direccionFoto>C:\Users\essteeli\Documents\dfdcedx.jpg</direccionFoto>
+  </Usuario>
+  <Usuario>
+    <nombre>maria</nombre>
+    <apellido>perez</apellido>
+    <cedula>20913337</cedula>
+    <email>esteperez1593</email>
+    <direccion>la candelaria</direccion>
+    <clave>1234</clave>
+    <seudonimo>mariaE</seudonimo>
+    <freg>6/12/2014</freg>
+    <fnac>15/09/1993</fnac>
+    <rol>Adm de Usuarios</rol>
+    <NumTarjCredito>1231</NumTarjCredito>
+    <MarcaComercial>123123</MarcaComercial>
+    <FecVencimiento>1234</FecVencimiento>
+    <Codigo />
+    <direccionFoto>C:\Users\essteeli\Documents\dfdcedx.jpg</direccionFoto>
+  </Usuario>
+</root>
