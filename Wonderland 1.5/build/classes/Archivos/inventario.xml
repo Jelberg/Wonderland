@@ -1,0 +1,44 @@
+<root>
+  <Producto>
+    <Nombre>calculadora</Nombre>
+    <Descripcion>hp 50g graficdora</Descripcion>
+    <Monto>123</Monto>
+    <Cantidad>5</Cantidad>
+    <Serial>1689</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>LIBRO</Nombre>
+    <Descripcion>alicia en el pais de las maraillas</Descripcion>
+    <Monto>900</Monto>
+    <Cantidad>6</Cantidad>
+    <Serial>551</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>papelera</Nombre>
+    <Descripcion>no se</Descripcion>
+    <Monto>300</Monto>
+    <Cantidad>6</Cantidad>
+    <Serial>1300</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>AGUA</Nombre>
+    <Descripcion>MINALBA</Descripcion>
+    <Monto>12</Monto>
+    <Cantidad>2</Cantidad>
+    <Serial>798</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>TELEFONO</Nombre>
+    <Descripcion>SAMSUNG</Descripcion>
+    <Monto>32</Monto>
+    <Cantidad>2</Cantidad>
+    <Serial>1947</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>chocolate</Nombre>
+    <Descripcion>savoy</Descripcion>
+    <Monto>55</Monto>
+    <Cantidad>1</Cantidad>
+    <Serial>1391</Serial>
+  </Producto>
+</root>
