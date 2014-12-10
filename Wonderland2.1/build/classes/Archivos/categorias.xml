@@ -1,0 +1,42 @@
+<root>
+  <Categ>
+    <Categoria>LIBRO</Categoria>
+    <Serial>551</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>TEXTO</Categoria>
+    <Serial>551</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>LITERATURA</Categoria>
+    <Serial>551</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>TEXTO</Categoria>
+    <Serial>1300</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>OFICINA</Categoria>
+    <Serial>1300</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>COMIDA</Categoria>
+    <Serial>798</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>COMIDA</Categoria>
+    <Serial>1391</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>DULCE</Categoria>
+    <Serial>1391</Serial>
+  </Categ>
+  <Categ>
+    <Categoria />
+    <Serial>1432</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>ELECTRONICA</Categoria>
+    <Serial>1432</Serial>
+  </Categ>
+</root>
