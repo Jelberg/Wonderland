@@ -1,0 +1,16 @@
+<root>
+  <Producto>
+    <Nombre>calculadora</Nombre>
+    <Descripcion>hp 50g graficdora</Descripcion>
+    <Monto>123</Monto>
+    <Cantidad>5</Cantidad>
+    <Serial>1689</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>LIBRO</Nombre>
+    <Descripcion>alicia en el pais de las maraillas</Descripcion>
+    <Monto>900</Monto>
+    <Cantidad>6</Cantidad>
+    <Serial>551</Serial>
+  </Producto>
+</root>

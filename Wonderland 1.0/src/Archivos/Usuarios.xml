@@ -1,0 +1,19 @@
+<root>
+  <Usuario>
+    <nombre>mari</nombre>
+    <apellido>DDDDDDDDD</apellido>
+    <cedula>V-1234</cedula>
+    <email>HOLA K ASE</email>
+    <direccion>123</direccion>
+    <clave>123</clave>
+    <seudonimo>123</seudonimo>
+    <freg>7/12/2014</freg>
+    <fnac>213</fnac>
+    <rol>Usuario</rol>
+    <NumTarjCredito />
+    <MarcaComercial>Master</MarcaComercial>
+    <FecVencimiento>213</FecVencimiento>
+    <codigo>hola</codigo>
+    <direccionFoto>C:\Users\essteeli\Documents\dfdcedx.jpg</direccionFoto>
+  </Usuario>
+</root>
