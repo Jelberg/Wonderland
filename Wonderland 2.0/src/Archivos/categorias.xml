@@ -1,0 +1,26 @@
+<root>
+  <Categ>
+    <Categoria>LIBRO</Categoria>
+    <Serial>551</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>TEXTO</Categoria>
+    <Serial>551</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>LITERATURA</Categoria>
+    <Serial>551</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>TEXTO</Categoria>
+    <Serial>1300</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>oficina</Categoria>
+    <Serial>1300</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>comida</Categoria>
+    <Serial>798</Serial>
+  </Categ>
+</root>
