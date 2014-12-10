@@ -1,0 +1,38 @@
+<root>
+  <Usuario>
+    <nombre>HOLA</nombre>
+    <apellido>HOLA</apellido>
+    <cedula>V-123</cedula>
+    <email>hola</email>
+    <direccion>123</direccion>
+    <clave>hola</clave>
+    <seudonimo>hola</seudonimo>
+    <freg>9/12/2014</freg>
+    <fnac>123</fnac>
+    <rol>ADM DE USUARIOS</rol>
+    <NumTarjCredito>123</NumTarjCredito>
+    <MarcaComercial>Visa</MarcaComercial>
+    <FecVencimiento>123</FecVencimiento>
+    <codigo>123</codigo>
+    <direccionFoto />
+    <cambio>0</cambio>
+  </Usuario>
+  <Usuario>
+    <nombre>MARIA</nombre>
+    <apellido>PEREZ</apellido>
+    <cedula>V-20913337</cedula>
+    <email>123</email>
+    <direccion>LA CANDELARIA</direccion>
+    <clave>123</clave>
+    <seudonimo>maria</seudonimo>
+    <freg>9/12/2014</freg>
+    <fnac>15/09/1993</fnac>
+    <rol>USUARIO</rol>
+    <NumTarjCredito>123</NumTarjCredito>
+    <MarcaComercial>Master</MarcaComercial>
+    <FecVencimiento>123</FecVencimiento>
+    <codigo>123</codigo>
+    <direccionFoto>C:\Users\essteeli\Documents\dfdcedx.jpg</direccionFoto>
+    <cambio>0</cambio>
+  </Usuario>
+</root>
