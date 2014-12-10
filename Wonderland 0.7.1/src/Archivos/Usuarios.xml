@@ -1,0 +1,19 @@
+<root>
+  <Usuario>
+    <nombre>MARIA</nombre>
+    <apellido>PEREZ</apellido>
+    <cedula>V-20913337</cedula>
+    <email>este1234</email>
+    <direccion>LA CANDELARIA</direccion>
+    <clave>123</clave>
+    <seudonimo>maria</seudonimo>
+    <freg>9/12/2014</freg>
+    <fnac>15/09/1993</fnac>
+    <rol>ADM DE USUARIOS</rol>
+    <NumTarjCredito>123</NumTarjCredito>
+    <MarcaComercial>Visa</MarcaComercial>
+    <FecVencimiento>123</FecVencimiento>
+    <codigo>123</codigo>
+    <direccionFoto />
+  </Usuario>
+</root>
