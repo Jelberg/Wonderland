@@ -1,0 +1,20 @@
+<root>
+  <Usuario>
+    <nombre>MARIA</nombre>
+    <apellido>HOLA O KE ASE</apellido>
+    <cedula>V-20913337</cedula>
+    <email>123</email>
+    <direccion>CARACAS</direccion>
+    <clave>456</clave>
+    <seudonimo>maria</seudonimo>
+    <freg>9/12/2014</freg>
+    <fnac>15/09/1993</fnac>
+    <rol>USUARIO</rol>
+    <NumTarjCredito>123</NumTarjCredito>
+    <MarcaComercial>Visa</MarcaComercial>
+    <FecVencimiento>213</FecVencimiento>
+    <codigo>213</codigo>
+    <direccionFoto>C:\Users\essteeli\Documents\dfdcedx.jpg</direccionFoto>
+    <cambio />
+  </Usuario>
+</root>
