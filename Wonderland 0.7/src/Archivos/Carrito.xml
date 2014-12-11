@@ -1,0 +1,10 @@
+<root>
+  <Carrito>
+    <Nombre>maria</Nombre>
+    <Serial>1947</Serial>
+  </Carrito>
+  <Carrito>
+    <Nombre>carlos</Nombre>
+    <Serial>227</Serial>
+  </Carrito>
+</root>

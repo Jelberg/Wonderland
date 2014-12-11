@@ -1,0 +1,22 @@
+<root>
+  <Categ>
+    <Categoria>LITERATURA</Categoria>
+    <Serial>551</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>PAPEL</Categoria>
+    <Serial>890</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>SDF</Categoria>
+    <Serial>663</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>ELECTRONICA</Categoria>
+    <Serial>1947</Serial>
+  </Categ>
+  <Categ>
+    <Categoria>COMIDA</Categoria>
+    <Serial>1106</Serial>
+  </Categ>
+</root>
