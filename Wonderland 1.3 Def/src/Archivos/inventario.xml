@@ -1,0 +1,44 @@
+<root>
+  <Producto>
+    <Nombre>LIBRO</Nombre>
+    <Descripcion>ALICIA</Descripcion>
+    <Monto>900</Monto>
+    <Cantidad>6</Cantidad>
+    <Serial>551</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>AGUA</Nombre>
+    <Descripcion>MINALBA</Descripcion>
+    <Monto>12</Monto>
+    <Cantidad>2</Cantidad>
+    <Serial>798</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>TELEFONO</Nombre>
+    <Descripcion>SAMSUNG</Descripcion>
+    <Monto>32</Monto>
+    <Cantidad>2</Cantidad>
+    <Serial>1947</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>CAJA</Nombre>
+    <Descripcion>SAFASF</Descripcion>
+    <Monto />
+    <Cantidad>2</Cantidad>
+    <Serial>663</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>OJO</Nombre>
+    <Descripcion>SDFBHFDSJ</Descripcion>
+    <Monto>344</Monto>
+    <Cantidad>4</Cantidad>
+    <Serial>227</Serial>
+  </Producto>
+  <Producto>
+    <Nombre>SARDINA EN LATA</Nombre>
+    <Descripcion>SARDINA EN LATA EVEVA</Descripcion>
+    <Monto>25</Monto>
+    <Cantidad>14</Cantidad>
+    <Serial>1106</Serial>
+  </Producto>
+</root>
