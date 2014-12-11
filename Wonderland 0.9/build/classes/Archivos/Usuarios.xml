@@ -1,0 +1,74 @@
+<root>
+  <Usuario>
+    <nombre>HOLA</nombre>
+    <apellido>HOLA</apellido>
+    <cedula>V-123</cedula>
+    <email>hola</email>
+    <direccion>123</direccion>
+    <clave>hola</clave>
+    <seudonimo>hola</seudonimo>
+    <freg>9/12/2014</freg>
+    <fnac>123</fnac>
+    <rol>ADM DE PRODUCTOS</rol>
+    <NumTarjCredito>123</NumTarjCredito>
+    <MarcaComercial>Visa</MarcaComercial>
+    <FecVencimiento>123</FecVencimiento>
+    <codigo>123</codigo>
+    <direccionFoto />
+    <cambio>0</cambio>
+  </Usuario>
+  <Usuario>
+    <nombre>MARIA</nombre>
+    <apellido>PEREZ</apellido>
+    <cedula>V-20913337</cedula>
+    <email>123</email>
+    <direccion>LA CANDELARIA</direccion>
+    <clave>123</clave>
+    <seudonimo>maria</seudonimo>
+    <freg>9/12/2014</freg>
+    <fnac>15/09/1993</fnac>
+    <rol>ADM DE USUARIOS</rol>
+    <NumTarjCredito>123</NumTarjCredito>
+    <MarcaComercial>Master</MarcaComercial>
+    <FecVencimiento>123</FecVencimiento>
+    <codigo>123</codigo>
+    <direccionFoto>C:\Users\essteeli\Documents\dfdcedx.jpg</direccionFoto>
+    <cambio>0</cambio>
+  </Usuario>
+  <Usuario>
+    <nombre>MARVIAN</nombre>
+    <apellido>MONTOYA</apellido>
+    <cedula>V-1234</cedula>
+    <email>marvianmontoya@gmail.com</email>
+    <direccion>23 DE ENERO</direccion>
+    <clave>marvian</clave>
+    <seudonimo>marvian</seudonimo>
+    <freg>10/12/2014</freg>
+    <fnac>22/10/2014</fnac>
+    <rol>ADM DE PRODUCTOS</rol>
+    <NumTarjCredito>1234567</NumTarjCredito>
+    <MarcaComercial>Master</MarcaComercial>
+    <FecVencimiento>09/2017</FecVencimiento>
+    <codigo>123</codigo>
+    <direccionFoto />
+    <cambio>ADM DE PRODUCTOS</cambio>
+  </Usuario>
+  <Usuario>
+    <nombre>CARLOS</nombre>
+    <apellido>CARLOS</apellido>
+    <cedula>V-123456</cedula>
+    <email>carlos</email>
+    <direccion>CARLOS</direccion>
+    <clave>carlos</clave>
+    <seudonimo>carlos</seudonimo>
+    <freg>10/12/2014</freg>
+    <fnac>carlos</fnac>
+    <rol>USUARIO</rol>
+    <NumTarjCredito>123456</NumTarjCredito>
+    <MarcaComercial>Visa</MarcaComercial>
+    <FecVencimiento>123423</FecVencimiento>
+    <codigo>12343</codigo>
+    <direccionFoto />
+    <cambio>ADM DE PRODUCTOS</cambio>
+  </Usuario>
+</root>
