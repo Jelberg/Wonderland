@@ -1,0 +1,11 @@
+<root>
+  <Producto>
+    <Nombre>123</Nombre>
+    <Categoria>Animales y Mascotas</Categoria>
+    <Descripcion>werrrer</Descripcion>
+    <Monto>123</Monto>
+    <Cantidad>17</Cantidad>
+    <Serial>208</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+</root>

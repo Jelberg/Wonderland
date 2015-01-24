@@ -1,0 +1,14 @@
+<root>
+  <Usuario>
+    <nombre>Jessica</nombre>
+    <apellido>Elberg</apellido>
+    <cedula>V-24942854</cedula>
+    <email>jessica_elberg@hotmail.com</email>
+    <direccion>la candelaria</direccion>
+    <clave>5526686</clave>
+    <seudonimo>jelberg</seudonimo>
+    <freg>29/12/2014</freg>
+    <fnac>dic 6, 1994</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+</root>

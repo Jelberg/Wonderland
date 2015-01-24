@@ -1,0 +1,12 @@
+<root>
+  <Facturacion>
+    <Precio>830.25</Precio>
+    <Comprador>maria</Comprador>
+    <Proveedor>maria</Proveedor>
+    <Cedula>V-20913337</Cedula>
+    <Nombre>123</Nombre>
+    <Total>738.0</Total>
+    <Cantidad>6</Cantidad>
+    <Codigo />
+  </Facturacion>
+</root>

@@ -1,0 +1,86 @@
+<root>
+  <Usuario>
+    <nombre>Jessica</nombre>
+    <apellido>Elberg</apellido>
+    <cedula>V-24942854</cedula>
+    <email>jessica_elberg@hotmail.com</email>
+    <direccion>la candelaria</direccion>
+    <clave>5526686</clave>
+    <seudonimo>jelberg</seudonimo>
+    <freg>29/12/2014</freg>
+    <fnac>dic 6, 1994</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>fer</nombre>
+    <apellido>er</apellido>
+    <cedula>V-ere</cedula>
+    <email>wer@hotmail.com</email>
+    <direccion>wer</direccion>
+    <clave>123</clave>
+    <seudonimo>jessica</seudonimo>
+    <freg>31/12/2014</freg>
+    <fnac>oct 6, 1994</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>sad</nombre>
+    <apellido>sda</apellido>
+    <cedula>V-das</cedula>
+    <email>sad@gmail.com</email>
+    <direccion>das</direccion>
+    <clave>asd</clave>
+    <seudonimo>asd</seudonimo>
+    <freg>14/1/2015</freg>
+    <fnac>MMM d, yyyy</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>dsa</nombre>
+    <apellido>asd</apellido>
+    <cedula>V-213</cedula>
+    <email>dsa@hotmail.com</email>
+    <direccion>dad</direccion>
+    <clave>13</clave>
+    <seudonimo>sad</seudonimo>
+    <freg>14/1/2015</freg>
+    <fnac>MMM d, yyyy</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>sda</nombre>
+    <apellido>ds</apellido>
+    <cedula>V-23</cedula>
+    <email>asd@gmail.com</email>
+    <direccion>d</direccion>
+    <clave>dsa</clave>
+    <seudonimo>asd</seudonimo>
+    <freg>14/1/2015</freg>
+    <fnac>MMM d, yyyy</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>asd</nombre>
+    <apellido>ads</apellido>
+    <cedula>V-2313</cedula>
+    <email>as@hotmail.com</email>
+    <direccion>gg</direccion>
+    <clave>123</clave>
+    <seudonimo>dg</seudonimo>
+    <freg>14/1/2015</freg>
+    <fnac>MMM d, yyyy</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>asd</nombre>
+    <apellido>qwe</apellido>
+    <cedula>V-sad</cedula>
+    <email>asd@gmail.com</email>
+    <direccion>asaad</direccion>
+    <clave>123</clave>
+    <seudonimo>mari</seudonimo>
+    <freg>14/1/2015</freg>
+    <fnac>MMM d, yyyy</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+</root>

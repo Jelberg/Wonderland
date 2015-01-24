@@ -1,0 +1,18 @@
+<root>
+  <Producto>
+    <Nombre>dragon</Nombre>
+    <Descripcion>dragon de comodo xDD</Descripcion>
+    <Monto>123</Monto>
+    <Cantidad>5</Cantidad>
+    <Serial>337</Serial>
+    <Proveedor>jessica</Proveedor>
+  </Producto>
+  <Producto>
+    <Nombre>hola</Nombre>
+    <Descripcion>qwertyui</Descripcion>
+    <Monto>123</Monto>
+    <Cantidad>34</Cantidad>
+    <Serial>1703</Serial>
+    <Proveedor>jessica</Proveedor>
+  </Producto>
+</root>

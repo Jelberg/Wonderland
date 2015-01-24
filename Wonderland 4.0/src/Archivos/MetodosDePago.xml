@@ -1,0 +1,37 @@
+<root>
+  <Metodo>
+    <numTarj>qeqwe</numTarj>
+    <marcaComecial>Visa</marcaComecial>
+    <fecVencimiento>ene 16, 2015</fecVencimiento>
+    <codigo>wqe</codigo>
+    <seudonimo>jelberg</seudonimo>
+  </Metodo>
+  <Metodo>
+    <numTarj>HOLA</numTarj>
+    <marcaComecial>Master Card</marcaComecial>
+    <fecVencimiento>abr 1, 2015</fecVencimiento>
+    <codigo>EWF</codigo>
+    <seudonimo>jessica</seudonimo>
+  </Metodo>
+  <Metodo>
+    <numTarj>1234</numTarj>
+    <marcaComecial>Master Card</marcaComecial>
+    <fecVencimiento>01-ene-2015</fecVencimiento>
+    <codigo>344</codigo>
+    <seudonimo>maria</seudonimo>
+  </Metodo>
+  <Metodo>
+    <numTarj>55555</numTarj>
+    <marcaComecial>Visa</marcaComecial>
+    <fecVencimiento>14-ene-2015</fecVencimiento>
+    <codigo>123</codigo>
+    <seudonimo>maria</seudonimo>
+  </Metodo>
+  <Metodo>
+    <numTarj>11111</numTarj>
+    <marcaComecial>Master Card</marcaComecial>
+    <fecVencimiento>16-ene-2015</fecVencimiento>
+    <codigo>12</codigo>
+    <seudonimo>maria</seudonimo>
+  </Metodo>
+</root>

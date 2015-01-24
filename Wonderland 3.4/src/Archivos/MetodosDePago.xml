@@ -1,0 +1,16 @@
+<root>
+  <Metodo>
+    <numTarj>qeqwe</numTarj>
+    <marcaComecial>Visa</marcaComecial>
+    <fecVencimiento>ene 16, 2015</fecVencimiento>
+    <codigo>wqe</codigo>
+    <seudonimo>jelberg</seudonimo>
+  </Metodo>
+  <Metodo>
+    <numTarj>HOLA</numTarj>
+    <marcaComecial>Master Card</marcaComecial>
+    <fecVencimiento>abr 1, 2015</fecVencimiento>
+    <codigo>EWF</codigo>
+    <seudonimo>jessica</seudonimo>
+  </Metodo>
+</root>

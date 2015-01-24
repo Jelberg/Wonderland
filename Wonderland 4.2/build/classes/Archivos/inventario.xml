@@ -1,0 +1,40 @@
+<root>
+  <Producto>
+    <Nombre>Grand Cheroky 2006</Nombre>
+    <Categoria>Carros y Camionetas</Categoria>
+    <Descripcion>-8 años de usado 
+-En perfectas condiciones
+                                      Contactenos telf: 0412-1246589</Descripcion>
+    <Monto>300</Monto>
+    <Cantidad>1</Cantidad>
+    <Serial>952</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+  <Producto>
+    <Nombre>Scarros</Nombre>
+    <Categoria>Celulares y Telefonos</Categoria>
+    <Descripcion>no se</Descripcion>
+    <Monto>700</Monto>
+    <Cantidad>15</Cantidad>
+    <Serial>142</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+  <Producto>
+    <Nombre>hola esto en Grand</Nombre>
+    <Categoria>Computacion</Categoria>
+    <Descripcion>no se nada</Descripcion>
+    <Monto>234</Monto>
+    <Cantidad>23</Cantidad>
+    <Serial>845</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+  <Producto>
+    <Nombre>muchoGrand</Nombre>
+    <Categoria>Casas</Categoria>
+    <Descripcion>hola k ase</Descripcion>
+    <Monto>23</Monto>
+    <Cantidad>234</Cantidad>
+    <Serial>162</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+</root>

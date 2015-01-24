@@ -1,0 +1,56 @@
+<root>
+  <Producto>
+    <Nombre>HOLAAA</Nombre>
+    <Categoria>Electrica, Audio y Video</Categoria>
+    <Descripcion />
+    <Monto>123</Monto>
+    <Cantidad>23</Cantidad>
+    <Serial>1533</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+  <Producto>
+    <Nombre>sdsd</Nombre>
+    <Categoria>Otras Categorias</Categoria>
+    <Descripcion />
+    <Monto>223</Monto>
+    <Cantidad>13</Cantidad>
+    <Serial>1217</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+  <Producto>
+    <Nombre>234</Nombre>
+    <Categoria />
+    <Descripcion />
+    <Monto>3</Monto>
+    <Cantidad>4</Cantidad>
+    <Serial>1984</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+  <Producto>
+    <Nombre>23</Nombre>
+    <Categoria>Salud y Belleza</Categoria>
+    <Descripcion />
+    <Monto>32</Monto>
+    <Cantidad>23</Cantidad>
+    <Serial>356</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+  <Producto>
+    <Nombre>wer</Nombre>
+    <Categoria>Consolas y Videojuegos</Categoria>
+    <Descripcion />
+    <Monto>21</Monto>
+    <Cantidad>12</Cantidad>
+    <Serial>1333</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+  <Producto>
+    <Nombre>123</Nombre>
+    <Categoria>Bebidas y Alimentos</Categoria>
+    <Descripcion />
+    <Monto>32</Monto>
+    <Cantidad>32</Cantidad>
+    <Serial>1748</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+</root>

@@ -1,0 +1,11 @@
+<root>
+  <Producto>
+    <Nombre>hola</Nombre>
+    <Categoria>Animales y Mascotas</Categoria>
+    <Descripcion>poodle toy</Descripcion>
+    <Monto>123</Monto>
+    <Cantidad>17</Cantidad>
+    <Serial>208</Serial>
+    <Proveedor>maria</Proveedor>
+  </Producto>
+</root>

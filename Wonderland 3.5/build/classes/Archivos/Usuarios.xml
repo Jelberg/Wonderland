@@ -1,0 +1,86 @@
+<root>
+  <Usuario>
+    <nombre>cac</nombre>
+    <apellido>asc</apellido>
+    <cedula>E-sac</cedula>
+    <email>sx@hotmail.com</email>
+    <direccion>sws</direccion>
+    <clave>123</clave>
+    <seudonimo>maria</seudonimo>
+    <freg>15/1/2015</freg>
+    <fnac>ene 8, 2015</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>Jessica</nombre>
+    <apellido>Elberg</apellido>
+    <cedula>V-24942854</cedula>
+    <email>jessica_elberg@hotmail.com</email>
+    <direccion>la candelaria</direccion>
+    <clave>5526686</clave>
+    <seudonimo>jelberg</seudonimo>
+    <freg>29/12/2014</freg>
+    <fnac>dic 6, 1994</fnac>
+    <rol>Administrador de Usuarios</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>maria</nombre>
+    <apellido>perez</apellido>
+    <cedula>V-20913337</cedula>
+    <email>asd@gmail.com</email>
+    <direccion>asd</direccion>
+    <clave>123</clave>
+    <seudonimo>maria</seudonimo>
+    <freg>15/1/2015</freg>
+    <fnac>15-sep-1993</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>asd</nombre>
+    <apellido>sad</apellido>
+    <cedula>V-212</cedula>
+    <email>sad@hotmail.com</email>
+    <direccion>asd</direccion>
+    <clave>213</clave>
+    <seudonimo>asd</seudonimo>
+    <freg>15/1/2015</freg>
+    <fnac>09-ene-2015</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>asd</nombre>
+    <apellido>das</apellido>
+    <cedula>V-444</cedula>
+    <email>asd@gmail.com</email>
+    <direccion>asd</direccion>
+    <clave>123</clave>
+    <seudonimo>ad</seudonimo>
+    <freg>15/1/2015</freg>
+    <fnac>08-ene-2015</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>asd</nombre>
+    <apellido>asd</apellido>
+    <cedula>V-213</cedula>
+    <email>asd@yahoo.com</email>
+    <direccion>daa</direccion>
+    <clave>asd</clave>
+    <seudonimo>maria</seudonimo>
+    <freg>15/1/2015</freg>
+    <fnac>13-ene-2015</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>ewd</nombre>
+    <apellido>wed</apellido>
+    <cedula>V-123</cedula>
+    <email>wed@gmail.com</email>
+    <direccion>wed</direccion>
+    <clave>wed</clave>
+    <seudonimo>wed</seudonimo>
+    <freg>15/1/2015</freg>
+    <fnac>ene 8, 2015</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+</root>

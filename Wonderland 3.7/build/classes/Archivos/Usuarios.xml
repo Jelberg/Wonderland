@@ -1,0 +1,38 @@
+<root>
+  <Usuario>
+    <nombre>cac</nombre>
+    <apellido>asc</apellido>
+    <cedula>E-sac</cedula>
+    <email>sx@hotmail.com</email>
+    <direccion>sws</direccion>
+    <clave>123</clave>
+    <seudonimo>maria</seudonimo>
+    <freg>15/1/2015</freg>
+    <fnac>ene 8, 2015</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>Jessica</nombre>
+    <apellido>Elberg</apellido>
+    <cedula>V-24942854</cedula>
+    <email>jessica_elberg@hotmail.com</email>
+    <direccion>la candelaria</direccion>
+    <clave>5526686</clave>
+    <seudonimo>jelberg</seudonimo>
+    <freg>29/12/2014</freg>
+    <fnac>dic 6, 1994</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+  <Usuario>
+    <nombre>maria</nombre>
+    <apellido>perez</apellido>
+    <cedula>V-20913337</cedula>
+    <email>asd@gmail.com</email>
+    <direccion>asd</direccion>
+    <clave>123</clave>
+    <seudonimo>maria</seudonimo>
+    <freg>15/1/2015</freg>
+    <fnac>15-sep-1993</fnac>
+    <rol>Usuario</rol>
+  </Usuario>
+</root>
